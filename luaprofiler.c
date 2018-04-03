@@ -1,13 +1,7 @@
 /*
 ** LuaProfiler
-** Copyright Kepler Project 2005-2007 (http://www.keplerproject.org/luaprofiler)
-** $Id: lua50_profiler.c,v 1.13 2008/05/19 18:36:23 mascarenhas Exp $
+** Copyright boswelyu 2018 (https://github.com/boswelyu/LuaProfiler)
 */
-
-/*****************************************************************************
-lua50_profiler.c:
-   Lua version dependent profiler interface
-*****************************************************************************/
 
 #include <stdio.h>
 #include <stdlib.h>
