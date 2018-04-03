@@ -13,3 +13,7 @@
 但是使用中发现这个工具的输出数据有点奇怪，而且在Android设备上会崩溃，所以就按照自己的思路，重写了数据收集部分的代码。
 这个工具第一版提交的时候，甚至还保留了Kepler同学的版权声明。但是因为大部分代码都是重写的，所以后来把版权声明改成了我自己的。
 如果有人认为我是属于侵权，或者Kepler同学看到了觉得不高兴了，都请立刻马上直接告诉我。我会认真听取您的所有意见。
+
+This tool referenced LuaProfiler which made by Kepler (http://www.keplerproject.org/luaprofiler). But I found I always get some odd output in my project, besides, it always crash on android device. So I rewrite the data collection logic according to my own idea. 
+I still reserved Kepler's copyright on my first version of code, while I replaced it by mine considering most of code are changed.
+Mr. Kepler, if you see this and feel not happy about that, please feel free to drop me a mail (yubooster@163.com) to let me know.
